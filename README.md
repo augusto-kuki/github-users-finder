@@ -1,7 +1,6 @@
 # Steps
 
-yarn
-yarn start
+yarn and yarn start
 
 # To acess a specific user
 
